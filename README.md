@@ -2,7 +2,7 @@
 How to make blog  website through node.js
 
 
-How to create
+How to run
 
 Open cmd and go to the given folder
 
