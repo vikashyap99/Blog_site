@@ -10,8 +10,8 @@ Open cmd and go to the given folder
 
 2. node server
 
-3.Open any Browser and type -> localhost:8080/articles/new 
+3. Open any Browser and type -> localhost:8080/articles/new 
 
-4.Fill the form
+4. Fill the form
 
-5.Then type -> localhost:8080/articles
+5. Then type -> localhost:8080/articles
