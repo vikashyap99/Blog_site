@@ -15,3 +15,5 @@ Open cmd and go to the given folder
 4. Fill the form
 
 5. Then type -> localhost:8080/articles
+
+6. Repete step 3 to 5.
