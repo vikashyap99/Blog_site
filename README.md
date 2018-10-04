@@ -8,7 +8,7 @@ Open cmd and go to the given folder
 
 1. npm install
 
-2. node server
+2. npm start
 
 3. Open any Browser and type -> localhost:8080/articles/new 
 
