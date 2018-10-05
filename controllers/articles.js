@@ -12,7 +12,7 @@ module.exports.index = function(req, res) {
 module.exports.new = function(req, res) {
 	res.send("<form method='post' action = '/articles'>\
 		<input type = 'text' placeholder='Title' name='Title'>\
-		<input type = 'text' placeholder='Auothur' name='Auothur'>\
+		<input type = 'text' placeholder='Author' name='Author'>\
 		<textarea  placeholder='Your Post' name='Post'></textarea>\
 		<button type='submit'>Post!</button>\
 		</form>");
