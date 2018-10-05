@@ -13,7 +13,7 @@ module.exports.new = function(req, res) {
 	res.send("<form method='post' action = '/articles'>\
 		<input type = 'text' placeholder='Title' name='Title'>\
 		<input type = 'text' placeholder='Auothur' name='Auothur'>\
-		<textarea  placeholder='Your Post' name='Post'></textarea>\
+		<textarea  placeholder='Post here' name='Post'></textarea>\
 		<button type='submit'>Post!</button>\
 		</form>");
 };
